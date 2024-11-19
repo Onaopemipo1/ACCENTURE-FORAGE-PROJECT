@@ -31,6 +31,8 @@ Using Microsoft Excel, i was able to look the dataset and then merge columns tog
 ## 5.0 - Data Visualization
 With the Dataset now properly cleaned, it was loaded to PowerBi to help for properly visualization to be done on the data. Some key insights gotten from the dataset would help Social Buzz company understand the data well. 
 
+![](ACC01.png)
+
 ## 6.0 - Insights
 There were some major insights gotten to help Social Buzz make their decision properly. Some of the insights include the following;
 6.1 - *It showed that the No of Posts were 24.57k, Total Content Score also was 974k, No of reaction Type was 16.*
